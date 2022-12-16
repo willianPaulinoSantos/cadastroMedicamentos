@@ -1,0 +1,24 @@
+.div-menu{
+    background-color: #76BEBE;
+    padding: 2em 3em;
+}
+
+.menu{
+    width: 90%;
+    margin: auto;
+}
+
+.menu-opcoes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+    
+}
+
+.menu-opcoes-item{
+    color: white;
+    font-family: Raleway;
+    font-size: 32px;
+    text-decoration: none;
+}
